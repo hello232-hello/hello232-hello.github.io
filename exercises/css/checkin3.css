@@ -3,6 +3,8 @@
     grid-template-rows: 100px 500px 500px;   
 }
 
+
+/* Row 1 */
 header {
     grid-row-start: 1;
     grid-row-end: 2;
@@ -16,6 +18,8 @@ header {
     align-items: center;
 }
 
+
+/* Row 2 */
 .Intro {
     grid-row-start: 2;
     grid-row-end: 3;
@@ -24,6 +28,7 @@ header {
     text-align: center;
     display: grid;
     align-items: center;
+    background-color: rgb(255, 255, 224);
 }
 
 .greenlady {
@@ -34,11 +39,14 @@ header {
     
 }
 
+
+/* Row 3 */
 .Welcome {
     grid-row-start: 3;
     grid-row-end: 4;
     grid-column-start: 1;
     grid-column-end: 2;
+    background-color: ivory;
 }
 
 .lady {
@@ -54,7 +62,7 @@ header {
     grid-row-end: 4;
     grid-column-start: 4;
     grid-column-end: 5;
-
+    background-color: ivory;
 } 
 
 img{
