@@ -47,7 +47,7 @@ header {
     grid-column-start: 1;
     grid-column-end: 2;
     background-color: ivory;
-    padding: 20px;
+    padding: 40px;
 }
 
 .lady {
@@ -64,7 +64,7 @@ header {
     grid-column-start: 4;
     grid-column-end: 5;
     background-color: ivory;
-    padding: 20px
+    padding: 40px
 } 
 
 
