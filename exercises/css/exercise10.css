@@ -49,6 +49,10 @@ h1 {
 
 
 /* Bringing footer down to the bottom of the brower */
+/* Here is my explaination for bringing my footer down the bottome of the browser:
+1. In the main, I used flex:1 to expand "main" to fill the available space.
+2. In body, I used display: flex to expand the available space easier. Then min-height is used for filling the full height of the browser, which will bring the footer to the bottom of the browser.
+ */
 main {
     flex: 1;
     padding: 20px;
