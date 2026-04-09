@@ -1,0 +1,96 @@
+
+h2 {
+    text-align: center;
+}
+
+
+
+li {
+    list-style-type: none;
+}
+
+
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+header {
+    background-image: url(../images/background.jpg);
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+}
+
+
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+    padding: 25px;
+    margin: 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 25px;
+}
+
+
+footer {
+    background-color: gray;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 0;
+}
+
+.deals {
+    display: flex;
+    justify-content: space-around;
+}
+
+.section2 h1 {
+    text-align: center;
+    color: red;
+}
+
+
+/* Background color for each section */
+
+.section1 {
+    padding: 20px;
+    margin: 0;
+    background-color: aqua;
+}
+
+.section2 {
+    padding: 20px;
+    margin: 0;
+    background-color: yellow;
+}
+
+.section3 {
+    padding: 20px;
+    margin: 0;
+    background-color: aqua;
+}
+
+main {
+    padding: 0;
+    margin: 0;
+}
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
