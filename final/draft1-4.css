@@ -1,0 +1,148 @@
+
+/* Commands for all four pages */
+main {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    margin: 0;
+}
+
+/* Footer Commands for all four pages*/
+
+footer {
+    background-color: gray;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    text-align: center;
+}
+
+footer a {
+    text-decoration: none;
+    color: white;
+}
+
+/* Flower Book Store heading above nav bar for all four pages*/
+header {
+    background-image: url(../images/background.jpg);
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+    padding: 25px;
+    margin: 0;
+    list-style-type: none;
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    padding: 25px;
+}
+
+li {
+    list-style-type: none;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+/* figcation size for all captions */
+
+figcaption {
+    font-size: 10px;
+}
+
+/* draft1-0.html*/
+h2 {
+    text-align: center;
+}
+
+.section1 {
+    padding: 20px;
+    margin: 0;
+    background-color: aqua;
+    text-align: center;
+}
+
+.section1 h1 {
+    color: red;
+}
+
+
+
+
+
+/* draft1-1.html */
+
+.section2 {
+    padding: 20px;
+    margin: 0;
+    background-color: aqua;
+}
+
+.section2 {
+    text-align: center;
+}
+
+
+
+/* draft1-2.html */
+
+.deals {
+    display: flex;
+    justify-content: space-around;
+}
+
+.section3 h1 {
+    text-align: center;
+    color: red;
+}
+
+
+.section3 {
+    padding: 20px;
+    margin: 0;
+    background-color: yellow;
+}
+
+
+
+
+
+/* draft1-3.html */
+
+.section4 {
+    padding: 20px;
+    margin: 0;
+    background-color: aqua;
+    text-align: center;
+}
+
+.section4 a {
+    text-decoration: none;
+}
+
+.blogsection {
+    display: grid;
+    grid-template-columns: auto auto auto auto;   
+    grid-template-rows: auto auto;
+    gap: 20px;
+}
