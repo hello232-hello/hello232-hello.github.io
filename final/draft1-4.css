@@ -15,7 +15,7 @@ body {
 /* Footer Commands for all four pages*/
 
 footer {
-    background-color: gray;
+    background-color: green;
     color: white;
     display: flex;
     flex-direction: row;
