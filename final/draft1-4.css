@@ -22,6 +22,7 @@ footer {
     padding: 30px;
     justify-content: center;
     gap: 50px;
+    flex-wrap: wrap;
 }
 
 footer a {
@@ -49,6 +50,7 @@ nav ul {
     padding: 25px;
     margin: 0;
     list-style-type: none;
+    flex-wrap: wrap;
 }
 
 nav a {
@@ -116,6 +118,7 @@ h2 {
 .deals {
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
 }
 
 .section3 h1 {
@@ -139,7 +142,7 @@ h2 {
 /* draft1-3.html */
 
 .section4 {
-    padding: 20px;
+    padding: 30px;
     margin: 0;
     background-color: aqua;
     text-align: center;
