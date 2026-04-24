@@ -69,6 +69,9 @@ li {
     align-items: center;
 }
 
+.logo img {
+    height: 150px;
+}
 
 
 /* figcation size for all captions */
