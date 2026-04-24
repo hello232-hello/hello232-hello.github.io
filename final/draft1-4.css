@@ -114,6 +114,10 @@ h2 {
     padding-right: 150px;
 }
 
+.section2 img {
+    height: 200px;
+}
+
 
 
 /* draft1-2.html */
@@ -136,6 +140,10 @@ h2 {
     background-color: aqua;
     padding-left: 80px;
     padding-right: 80px;
+}
+
+.section3 img {
+    height: 300px;
 }
 
 
