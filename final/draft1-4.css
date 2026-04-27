@@ -80,7 +80,8 @@ figcaption {
     font-size: 10px;
 }
 
-/* draft1-0.html*/
+/* Home Page*/
+
 h2 {
     text-align: center;
 }
@@ -100,7 +101,7 @@ h2 {
 
 
 
-/* draft1-1.html */
+/* About Us Page */
 
 .section2 {
     padding: 20px;
@@ -120,7 +121,7 @@ h2 {
 
 
 
-/* draft1-2.html */
+/* Deals Page */
 
 .deals {
     display: flex;
@@ -150,7 +151,7 @@ h2 {
 
 
 
-/* draft1-3.html */
+/* Blog Page */
 
 .section4 {
     padding: 30px;
