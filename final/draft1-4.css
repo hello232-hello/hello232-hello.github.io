@@ -10,7 +10,11 @@ body {
     flex-direction: column;
     min-height: 100vh;
     margin: 0;
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(194, 246, 228);
 }
+
 
 /* Footer Commands for all four pages*/
 
@@ -35,7 +39,7 @@ footer img {
 }
 
 
-/* Flower Book Store heading above nav bar for all four pages*/
+/* Nav bar commands for all four pages*/
 header {
     background-image: url(../images/background.jpg);
     height: 100%;
@@ -89,7 +93,6 @@ h2 {
 .section1 {
     padding: 20px;
     margin: 0;
-    background-color: aqua;
     text-align: center;
 }
 
@@ -100,13 +103,11 @@ h2 {
 
 
 
-
 /* About Us Page */
 
 .section2 {
-    padding: 20px;
+    padding: 30px;
     margin: 0;
-    background-color: aqua;
 }
 
 .section2 {
@@ -138,7 +139,6 @@ h2 {
 .section3 {
     padding: 20px;
     margin: 0;
-    background-color: aqua;
     padding-left: 80px;
     padding-right: 80px;
 }
@@ -156,7 +156,6 @@ h2 {
 .section4 {
     padding: 30px;
     margin: 0;
-    background-color: aqua;
     text-align: center;
 }
 
